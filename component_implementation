@@ -1,0 +1,25 @@
+---
+name: Component implementation
+about: Request a new component for the UI library.
+title: 'Component Request: YOUR_COMPONENT'
+labels: ''
+assignees: ''
+
+---
+
+# Why do you need this component?
+
+A clear and consise description of why you need this component.
+
+# Describe the API (Props) you would expect the component to support
+
+A table of the props you would expect the component to support, with their types and default values if needed.
+
+# Accessibility considerations
+
+Please link clear and consise documentation on accessibility requirements.
+Usually, https://www.w3.org/WAI/ARIA/apg/patterns/ is a good place to start.
+
+# Additional context
+
+Please think of other use-cases for your component that should be considered during its implementation.
